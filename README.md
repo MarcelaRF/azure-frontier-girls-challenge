@@ -148,3 +148,7 @@ else:
             
 
 <img width="1124" height="909" alt="Screenshot 2025-11-20 170601" src="https://github.com/user-attachments/assets/540b768e-4a01-4e00-9902-2492bc902cbd" />
+
+## Referências
+- ### Aulas do curso sobre a criação do agente https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge
+- ### 
