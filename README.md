@@ -151,4 +151,9 @@ else:
 
 ## Referências
 - ### Aulas do curso sobre a criação do agente https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge
-- ### 
+      - https://www.youtube.com/watch?v=drXfes7p9sg
+      - https://www.youtube.com/watch?v=LnPL1ftGbN4
+      - https://www.youtube.com/watch?v=0RE8sqlzvdo
+      - https://www.youtube.com/watch?v=blQRiAglNsw
+  
+- ### https://learn.microsoft.com/en-us/azure/ai-foundry/?view=foundry-classic
